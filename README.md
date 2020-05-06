@@ -4,16 +4,18 @@ This repository contains the analysis of Four Tet's album discography using the 
 
 # Requirements
 
-Python 3.6
-Spotipy
-time
-json
-requests
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-cufflinks
-sklearn
-tensorflow
+<ul>
+<li>Python 3.6</li>
+<li>Spotipy</li>
+<li>time</li>
+<li>json</li>
+<li>requests</li>
+<li>numpy</li>
+<li>pandas</li>
+<li>matplotlib</li>
+<li>seaborn</li>
+<li>plotly</li>
+<li>cufflinks</li>
+<li>sklearn</li>
+<li>tensorflow</li>
+</ul>
