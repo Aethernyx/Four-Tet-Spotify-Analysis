@@ -1,5 +1,19 @@
-# Four-Tet-Spotify-Analysis
+# Four Tet Spotify Analysis
 
-In this project I pull the audio features data from the Spotify API using Spotipy to analyze the artist Four Tet's music over each of his released albums.
+This repository contains the analysis of Four Tet's album discography using the Spotify API and Spotipy library. Using tensorflow I developed a model that attempts to predict a song's popularity on Spotify using a songs audio features.
 
-I then build a Multi-layer Perceptron Neural Net to predict song popularity based off of the audio features.
+# Requirements
+
+Python 3.6
+Spotipy
+time
+json
+requests
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+cufflinks
+sklearn
+tensorflow
