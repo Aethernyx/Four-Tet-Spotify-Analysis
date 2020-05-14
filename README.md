@@ -5,7 +5,7 @@ This repository contains the analysis of Four Tet's album discography using the 
 # Requirements
 
 <ul>
-<li>Python 3.6</li>
+<li>Python 3.7</li>
 <li>Spotipy</li>
 <li>time</li>
 <li>json</li>
@@ -19,3 +19,4 @@ This repository contains the analysis of Four Tet's album discography using the 
 <li>sklearn</li>
 <li>tensorflow</li>
 </ul>
+
